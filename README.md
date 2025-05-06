@@ -1,14 +1,10 @@
-# 👋 Hi, I'm Nancy Singh
+# 👋 Hi, I'm Sangram Keshari Patro 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youfoundsangram)  [![Portfolio](https://img.shields.io/badge/PORTFOLIO-ff7f2a?style=for-the-badge&labelColor=ff7f2a&color=white)](https://www.mygreatlearning.com/eportfolio/sangram-keshari-patro)
 
 ## 🚀 Data Analyst | Passionate about Translating Data into Actionable Insights
 
-I am a **Data Analyst** with a passion for leveraging data to make strategic business decisions. My expertise lies in utilizing **machine learning**, **data analysis**, and **visualization** tools to drive insights that inform business operations. I have hands-on experience in data manipulation, machine learning techniques, and building predictive models to optimize business outcomes.
-
-> **Profile Views:** 6379
-
----
+I am a aspiring **Data Scientist** with a passion for leveraging data to make strategic business decisions. My expertise lies in utilizing **machine learning**, **data analysis**, and **visualization** tools to drive insights that inform business operations. I have hands-on experience in data manipulation, machine learning techniques, and building predictive models to optimize business outcomes.
 
 ## 🎯 Summary
 
