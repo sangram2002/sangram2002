@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Nancy Singh
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youfoundsangram)  
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-ff7f2a?style=for-the-badge&labelColor=ff7f2a&color=white)](https://www.mygreatlearning.com/eportfolio/sangram-keshari-patro)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youfoundsangram)  [![Portfolio](https://img.shields.io/badge/PORTFOLIO-ff7f2a?style=for-the-badge&labelColor=ff7f2a&color=white)](https://www.mygreatlearning.com/eportfolio/sangram-keshari-patro)
 
 ## 🚀 Data Analyst | Passionate about Translating Data into Actionable Insights
 
